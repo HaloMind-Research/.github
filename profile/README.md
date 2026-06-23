@@ -23,4 +23,5 @@ Our architectural focus centers on:
 
 ---
 **Full Portfolio & Publications:** [halomind-research.github.io](https://halomind-research.github.io/)
+
 **Contact:** [halomind.research.group@gmail.com](mailto:halomind.research.group@gmail.com)
