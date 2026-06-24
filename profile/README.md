@@ -6,12 +6,13 @@ Halo Mind is a distributed & Inter-Disciplinary AI research group focused on eng
 Our core mandate is bridging continuous physical dynamics with discrete neural computation to deploy robust architectures in mission-critical, harsh environments.
 
 Our architectural focus centers on:
-*   **Sub-Quadratic Sequence Modeling (SSM's)** 
+
 *   **Deep Learning Architectures**
-*   **Space AI**
 *   **Medical Vision**
+*   **Space AI**
 *   **OCR**
 *   **Trustworthy AI**
+*   **Sub-Quadratic Sequence Modeling (SSM's)** 
 *   **Conformal Prediction**
 *   **Distribution-Free Uncertainty Quantification**
 
