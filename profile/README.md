@@ -14,7 +14,7 @@ Our architectural focus centers on:
 *   **Trustworthy AI**
 *   **Sub-Quadratic Sequence Modeling (SSM's)** 
 *   **Conformal Prediction**
-*   **Distribution-Free Uncertainty Quantification**
+*   **Uncertainty Quantification**
 
 & much more...
 
