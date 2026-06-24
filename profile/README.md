@@ -11,6 +11,8 @@ Our architectural focus centers on:
 *   **Space AI**
 *   **Medical Vision**
 *   **OCR**
+*   **Trustworthy AI**
+*   **Conformal Prediction**
 *   **Distribution-Free Uncertainty Quantification**
 
 & much more...
